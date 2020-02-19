@@ -1,6 +1,6 @@
 {
   "name": "i18n-week-days",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "i18n days of the week in several languages",
   "main": "index.json",
   "scripts": {

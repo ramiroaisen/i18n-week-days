@@ -23,6 +23,8 @@ weekDays["fr"][2] === "mercredi"
 // get available langs
 Object.keys(weekDays);
 ```
+### Typescript
+As this is a JSON module is auto-typed by the ts compiler
 
 ### Available languages
 ```code
