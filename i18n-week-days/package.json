@@ -1,0 +1,31 @@
+{
+  "name": "i18n-week-days",
+  "version": "0.0.1",
+  "description": "i18n days of the week in several languages",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramiroaisen/i18n-week-days.git"
+  },
+  "keywords": [
+    "i18n",
+    "week",
+    "days",
+    "days",
+    "of",
+    "the",
+    "week",
+    "internationalization",
+    "iso",
+    "languages"
+  ],
+  "author": "ramiroaisen <ramiroaisen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramiroaisen/i18n-week-days/issues"
+  },
+  "homepage": "https://github.com/ramiroaisen/i18n-week-days#readme"
+}
